@@ -8,6 +8,7 @@ uv add fastmcp httpx
 uv tool install ollmcp
 uv add langchain-ollama
 uv tool install mcp-cli
+ollama pull qwen3.5
 ```
 
 
